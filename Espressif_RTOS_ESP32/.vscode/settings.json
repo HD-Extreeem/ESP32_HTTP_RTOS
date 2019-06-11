@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/hadideknache/.platformio/penv/bin:/Users/hadideknache/.platformio/penv:/usr/local/bin:/Users/hadideknache/opt/gcc-arm-none-eabi-4_9-2015q3/bin:/Users/hadideknache/opt/gcc-arm-none-eabi-4_9-2015q3/:/usr/local/bin:/usr/local/sbin:/Users/hadideknache/opt/nRF5x-Command-Line-Tools_9_7_2_OSX/mergehex:/usr/local/bin:/usr/local/sbin:/Users/hadideknache/opt/nRF5x-Command-Line-Tools_9_7_2_OSX/nrfjprog:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/minicom/2.2/bin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/hadideknache/esp/xtensa-esp32-elf/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
